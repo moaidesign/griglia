@@ -1,0 +1,17 @@
+/*tablet e smartphone____________________*/
+@media (max-width: 769px){
+  .content{
+    width: 36%;
+    padding: 6%;
+  }
+}
+
+
+/*tablet e smartphone____________________*/
+@media (max-width: 500px){
+  .content{
+    display: inline;
+    width: 100%;
+    padding: 6%;
+  }
+}
